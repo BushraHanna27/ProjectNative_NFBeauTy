@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NFBeauTy</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Appointment</string>
+    <string name="title_notifications">About Us</string>
+    <string name="textview">The ‘NFBeauty’ was established by business person Kate Cynthia in 2022. Build by Trasakh, Bushra, Farah and Nisa, before long, we has developed the business to what it is today.
+
+The honor winning sisters have buckled down and keep on working unendingly on enhancing and keeping up benchmarks over the business and are now extremely energized with the presentation of the new Beauty and Salon on Kuala Terengganu Street
+
+“Our customers are vital to us, so we constantly train our specialists to guarantee that all medicines are of the most astounding standard and that every customer gets the best consideration”
+
+The new Beauty and Salon will enable us to give customers the full range of corrective, remedial, and preparing medications with the most expert and classified administration</string>
+<string name="textview2">Thank you for choosing us.</string>
+</resources>

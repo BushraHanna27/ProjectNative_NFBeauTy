@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.notifications.NotificationsFragment">
+
+    <LinearLayout
+        android:layout_width="370dp"
+        android:layout_height="591dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="17dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/text_notifications"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_view_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="The ‘NFBeauty’ was established by business person Kate Cynthia in 2022. Build by Trasakh, Bushra, Farah and Nisa, before long, we has developed the business to what it is today.
+
+The honor winning sisters have buckled down and keep on working unendingly on enhancing and keeping up benchmarks over the business and are now extremely energized with the presentation of the new Beauty and Salon on Kuala Terengganu Street
+
+“Our customers are vital to us, so we constantly train our specialists to guarantee that all medicines are of the most astounding standard and that every customer gets the best consideration”
+
+The new Beauty and Salon will enable us to give customers the full range of corrective, remedial, and preparing medications with the most expert and classified administration."
+                android:textColor="#030403"
+                android:textSize="12dp"
+                android:padding="70dp"/>
+
+            <TextView
+                android:padding="0dp"
+                android:id="@+id/text_view_id2"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Thank you for choosing us."
+                android:textColor="#020202"
+                android:textSize="25dp"
+                android:layout_gravity="center"
+                android:textStyle="bold|italic"/>
+
+
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
